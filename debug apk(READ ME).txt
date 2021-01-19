@@ -1,0 +1,2 @@
+Location of the debug apk
+App -> Build -> outputs -> apk -> debug 
